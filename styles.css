@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
 }
 .conteiner {
-    margin: 200px 40vw;
+    margin: 200px auto;
     display: flex;
     flex-wrap: wrap;
     width: 300px;
@@ -41,7 +41,7 @@ p {
 .attribution {
     text-align: center;
 }
-@media (max-width: 400px) {
+@media (max-width: 550px) {
     body {
         width: 375px;
         background-color: hsl(212, 45%, 89%);
